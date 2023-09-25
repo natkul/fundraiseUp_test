@@ -1,0 +1,7 @@
+my-allure-results/
+allure-report/
+node_modules/
+playwright-report/
+e2e/
+test-examples/
+.demo-todo-app.spec.ts/
